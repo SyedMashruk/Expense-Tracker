@@ -1,0 +1,12 @@
+com.example.expense_tracker.app-jetified-annotation-experimental-1.1.0-0 C:\Users\mohta\.gradle\caches\transforms-3\148821b8d2698fe88c3b0cadc28bd5de\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.expense_tracker.app-core-1.6.0-1 C:\Users\mohta\.gradle\caches\transforms-3\34f5abc234fac9776faacfcf13fe7cfc\transformed\core-1.6.0\res
+com.example.expense_tracker.app-jetified-window-java-1.0.0-beta04-2 C:\Users\mohta\.gradle\caches\transforms-3\e579a43663bd40ce7c078247b076db6b\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.expense_tracker.app-jetified-window-1.0.0-beta04-3 C:\Users\mohta\.gradle\caches\transforms-3\f349b91eebf5fd4438fe33805c557869\transformed\jetified-window-1.0.0-beta04\res
+com.example.expense_tracker.app-debug-4 D:\Flutter_Tutorial\expense_tracker\android\app\src\debug\res
+com.example.expense_tracker.app-main-5 D:\Flutter_Tutorial\expense_tracker\android\app\src\main\res
+com.example.expense_tracker.app-pngs-6 D:\Flutter_Tutorial\expense_tracker\build\app\generated\res\pngs\debug
+com.example.expense_tracker.app-resValues-7 D:\Flutter_Tutorial\expense_tracker\build\app\generated\res\resValues\debug
+com.example.expense_tracker.app-rs-8 D:\Flutter_Tutorial\expense_tracker\build\app\generated\res\rs\debug
+com.example.expense_tracker.app-mergeDebugResources-9 D:\Flutter_Tutorial\expense_tracker\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.expense_tracker.app-mergeDebugResources-10 D:\Flutter_Tutorial\expense_tracker\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.expense_tracker.app-merged_res-11 D:\Flutter_Tutorial\expense_tracker\build\app\intermediates\merged_res\debug
