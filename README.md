@@ -1,16 +1,19 @@
-# expense_tracker
+# Expense Tracker
+Expense Tracker is a simple cross-platform expense tracking app developed using flutter and dart.
 
-A new Flutter project.
+## ScreenShots:
+![screenshot_1](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/Screenshot_1720288416.png)
 
-## Getting Started
+![screenshot_2](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/Screenshot_1720288423.png)
 
-This project is a starting point for a Flutter application.
+![screenshot_3](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/Screenshot_1720288426.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Information
+**Project Title:** Expense Tracker<br>
+**Project Type:** Expense Tracking app (Cross Platform)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Language:** Flutter & Dart<br>
+**IDE:** Visual Studio Code 2019<br>
+**Platform:** Windows
+
