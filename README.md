@@ -1,16 +1,24 @@
-# expense_tracker
+# Expense Tracker
+Expense Tracker is a simple cross-platform app that calculates your expenses, developed using flutter and dart. It has both dark mode and light mode.
 
-A new Flutter project.
+## ScreenShots:
+![screenshot_1](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/1.png)
 
-## Getting Started
+![screenshot_2](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/2.png)
 
-This project is a starting point for a Flutter application.
+![screenshot_3](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/3.png)
 
-A few resources to get you started if this is your first Flutter project:
+![screenshot_1](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![screenshot_2](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot_3](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/6.png)
+
+
+## Project Information
+**Project Title:** Expense Tracker<br>
+**Project Type:** Expense Tracking app (Cross Platform)
+
+**Language:** Flutter & Dart<br>
+**IDE:** Visual Studio Code 2019<br>
+**Platform:** Windows
