@@ -21,4 +21,3 @@ Expense Tracker is a simple cross-platform app that calculates your expenses, de
 
 **Language:** Flutter & Dart<br>
 **IDE:** Visual Studio Code 2019<br>
-**Platform:** Windows
