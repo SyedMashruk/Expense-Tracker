@@ -8,11 +8,11 @@ Expense Tracker is a simple cross-platform app that calculates your expenses, de
 
 ![screenshot_3](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/3.png)
 
-![screenshot_1](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/4.png)
+![screenshot_4](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/4.png)
 
-![screenshot_2](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/5.png)
+![screenshot_5](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/5.png)
 
-![screenshot_3](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/6.png)
+![screenshot_6](https://github.com/SyedMashruk/Expense-Tracker/blob/main/Screenshots/6.png)
 
 
 ## Project Information
